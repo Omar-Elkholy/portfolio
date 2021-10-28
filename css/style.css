@@ -881,6 +881,21 @@ button::selection {
 }
 
 
+.work .image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.angular-routing {
+    background-image: url(../images/work/angular/angular-routing.jpg);
+
+}
+
+.angular-movies {
+    background-image: url(../images/work/angular/homePage.jpg);
+}
+
 
 /* End Work Section */
 
